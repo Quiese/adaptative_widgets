@@ -1,0 +1,1 @@
+library adaptative_widgets;
